@@ -1,0 +1,17 @@
+{
+  "name": "super-admin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "asd.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lodash": "^4.17.21",
+    "mongodb": "^3.6.6",
+    "mysql": "^2.18.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kamal",
+  "license": "ISC"
+}
